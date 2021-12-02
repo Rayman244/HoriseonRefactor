@@ -30,7 +30,7 @@ https://rayhewittdev.com/
 
 ## Features
 
-If your project has a lot of features, list them here.
+Navbar links take you places on the site
 
 ## How to Contribute
 
