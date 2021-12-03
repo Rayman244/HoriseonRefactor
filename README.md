@@ -11,7 +11,7 @@ No installation nessessary just go to https://rayman244.github.io/HoriseonRefact
 
 ## Usage
 
-![Screenshot of site ](Develop/assets/images/fullPic.png)
+![Screenshot of site ](/Assets/images/fullPic.png)
 
 ## Credits
 
